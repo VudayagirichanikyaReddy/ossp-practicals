@@ -1,0 +1,1 @@
+Hello CampusShell Students! This is a sample file used to demonstrate strace. It has a few lines of text so read() has real work to do.

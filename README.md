@@ -1,1 +1,1 @@
-# OSSP Practicals
+# ossp
